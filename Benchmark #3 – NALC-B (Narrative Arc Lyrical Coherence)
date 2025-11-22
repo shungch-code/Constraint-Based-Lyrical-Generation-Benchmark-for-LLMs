@@ -1,0 +1,21 @@
+You are taking a narrative-structure lyric generation test.
+
+Task:
+Generate a coherent 4-part lyric following a Chinese classical narrative arc:
+Qi (4 characters)
+Cheng (5 characters)
+Zhuan (6 characters)
+He (4 characters)
+
+Theme: "{{THEME}}"
+
+Rules:
+- Provide exactly 4 lines.
+- Each line must meet the character count.
+- Qi: introduce the situation
+- Cheng: build context or emotion
+- Zhuan: provide a twist or development
+- He: conclude or resolve the idea
+- No commentary or extra text.
+
+Output only the 4 lines.
