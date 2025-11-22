@@ -1,0 +1,25 @@
+🎤 Benchmark #1 – PWCC-B Official Prompt
+You are taking a constraint-based lyric generation test.
+
+Task:
+Generate a lyric of exactly 8 lines based on the following theme:
+Theme: "{{THEME}}"
+
+Structural constraints:
+Line 1: 4 characters
+Line 2: 4 characters
+Line 3: 3 characters
+Line 4: 3 characters
+Line 5: 5 characters
+Line 6: 5 characters
+Line 7: 3 characters
+Line 8: 3 characters
+
+Rules:
+- Produce exactly 8 lines.
+- Each line must contain EXACTLY the required number of characters.
+- No punctuation unless it counts as one character.
+- No added commentary, no explanations.
+- Output ONLY the 8 lines.
+
+Now generate the lyric.
