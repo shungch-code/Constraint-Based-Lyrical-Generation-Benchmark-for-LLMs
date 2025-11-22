@@ -1,0 +1,30 @@
+Benchmark #1: PWCC-B（Phrase Word/Character Count）
+
+固定 8-line 結構（4–4–3–3–5–5–3–3）
+
+Test ID	Theme
+PWCC-01	太空探險 Space Exploration
+PWCC-02	海洋與潮汐 Ocean & Tides
+PWCC-03	城市夜景 City Nightscape
+PWCC-04	四季輪轉 Four Seasons
+PWCC-05	友情 Friendship
+Benchmark #2: RVP-B（Repetition–Variation Pattern；兩隻老虎風格）
+
+A(4)–A(4)–B(3)–B(3)–C(6)–C’(6)–D(3)–D(3)
+
+Test ID	Theme
+RVP-01	動物園奇遇 Zoo Adventure
+RVP-02	機器人世界 Robot World
+RVP-03	雲朵旅行 Cloud Journey
+Benchmark #3: NALC-B（Narrative Arc with Length Constraints）
+
+起(4)、承(5)、轉(6)、合(4) — 全部「必須是可唱的歌詞敘事」
+
+Test ID	Theme
+NALC-01	成長 Growth
+NALC-02	失而復得 Lost & Found
+NALC-03	旅程 Journey
+⭐ 核心：可引用的 Prompt 樣板（正式版，可放入論文）
+
+以下是三個 Benchmark 的「固定、精確、官方版本」
+→ 所有模型必須用這個版本，才能做公平比較
